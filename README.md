@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **LinqEm - An elegant link aggregation repository for web!**
 
-- 🌱 I’m looking to learn **Mobile development**
+- 🌱 I’m looking to learn **iOS development**
 
 - 📝 I occasionally write trash on [https://ethana.dev/](https://ethana.dev/)
 
-- 📄 Working at [PebblePad](PebblePad)
+- 📄 Working at [PebblePad](https://www.pebblepad.co.uk/)
 
 - ⚡ Fun fact **I have a severe addiction to peanut M&M's**
 
