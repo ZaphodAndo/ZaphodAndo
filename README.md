@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">Destroyer of Builds, Remover of Strings, Creator of lint errors.</h3>
+<h3 align="center">Doing yesterday's work tomorrow</h3>
 
 - 🔭 I’m currently working on **LinqEm - An elegant link aggregation repository for web!**
 
-- 🌱 I’m looking to learn **iOS development**
+- 🌱 I’m looking to learn more about **PWA's** and making web apps more like **desktop applications**
 
 - 📝 I occasionally write trash on [https://ethana.dev/](https://ethana.dev/)
 
